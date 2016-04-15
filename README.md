@@ -1,3 +1,7 @@
+**NEW*** ALLOW Options such as settings timeout, maximumAge, accuracy, to provide greater control over GPS hardware.
+
+Docs here: https://github.com/apache/cordova-plugin-geolocation
+
 Mobile Packages
 ===============
 
